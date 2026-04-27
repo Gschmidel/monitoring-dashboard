@@ -1,0 +1,501 @@
+id,module,error_type,severity,status,created_at,resolved_at
+3f73216d-53f5-4d2c-9ec7-c427853d840f,API,Connection Error,Medium,Resolved,2026-04-18 05:22:47,2026-04-18 17:22:47
+3ed0e927-db80-4851-81d2-9172a770d9d8,Database,Data Error,High,Open,2026-04-12 21:16:23,
+ae29e2a8-eba3-4da7-9b98-934ed8ae9a3f,API,Timeout,High,Open,2026-04-07 22:50:56,
+df8dd29a-f849-4664-a02c-07ac8031e3dc,Payments,Connection Error,Critical,Resolved,2026-04-19 22:40:57,2026-04-20 00:40:57
+33f21a74-ebca-4cd3-9cc7-5d9312a7617a,Frontend,Timeout,Low,Resolved,2026-04-18 15:18:29,2026-04-19 07:18:29
+a9236247-0c11-415f-89e7-0b724b5f433f,API,Connection Error,Low,Resolved,2026-04-18 22:16:18,2026-04-19 07:16:18
+f24cef03-2c79-4d56-aaf3-ec96a1bb9893,Frontend,Connection Error,Low,Resolved,2026-04-20 08:42:32,2026-04-21 06:42:32
+691d6999-e3a5-4d36-9146-1ccf6b2808e7,Payments,Timeout,High,In Progress,2026-04-11 04:00:30,
+e4b81b42-b7ba-48d0-a1f0-117cfd947704,Database,Auth Failure,Critical,Resolved,2026-04-07 22:29:04,2026-04-10 22:29:04
+e6dda0ab-b165-4d92-a745-c23ac6080d0a,Auth,Data Error,High,In Progress,2026-04-03 10:44:08,
+8db99616-98bb-4f12-a5ab-fae75cefefb7,Payments,Timeout,Critical,Open,2026-04-24 21:07:43,
+90e3a25b-4639-459e-a04e-92324c28e6c2,Frontend,Data Error,Low,In Progress,2026-04-04 17:24:16,
+5ef1327a-c253-4785-80dd-3c1723aad735,Frontend,Auth Failure,Low,In Progress,2026-04-11 19:41:44,
+49faba11-baaa-42fd-8375-8738fc390e5c,Auth,Timeout,High,Resolved,2026-04-05 20:00:02,2026-04-07 10:00:02
+6378da47-66f7-49e9-b6f0-63405d81ec43,Frontend,Data Error,Critical,Resolved,2026-04-24 06:44:51,2026-04-25 08:44:51
+94e41cbc-df7e-4da8-8166-ef5caac16fce,Database,Data Error,Medium,In Progress,2026-04-07 04:45:29,
+6301e200-efe9-4957-8e47-85f654b801be,API,Connection Error,Medium,Resolved,2026-04-20 23:06:36,2026-04-21 08:06:36
+e84d3350-0812-443c-8b1d-f162d3c65a47,API,Connection Error,Critical,In Progress,2026-04-13 03:30:38,
+88af97cd-1220-44a5-a0f5-ae1f80fc5624,Payments,Connection Error,High,Resolved,2026-03-30 10:40:48,2026-03-31 00:40:48
+0425339d-2312-4a74-afdd-bedc317cc6d7,Payments,Data Error,Low,In Progress,2026-03-28 17:43:47,
+224f1b1f-f554-4407-ae4f-7ba4f90889c5,API,Auth Failure,Critical,Resolved,2026-04-01 13:37:25,2026-04-03 09:37:25
+fe26443d-d4a1-47bc-8ca4-c1d78f208fdf,Frontend,Auth Failure,Low,In Progress,2026-04-14 05:41:46,
+b3cf2f45-d6fa-4ae1-ba3c-f2d41145e60b,Payments,Data Error,Critical,Resolved,2026-04-09 21:04:19,2026-04-10 08:04:19
+d1ac9b3a-5b41-4222-a66e-56f8551ecaac,API,Timeout,Low,In Progress,2026-03-31 00:03:28,
+ccf8fb5e-206a-4082-ae77-52235d25ce27,Auth,Auth Failure,Medium,In Progress,2026-04-22 23:28:04,
+58436416-e7ca-4fd9-b774-bef6776c4c69,Auth,Connection Error,Critical,Resolved,2026-04-22 18:27:40,2026-04-24 02:27:40
+478d848c-5b98-45df-a53b-f3d5eeafbcd9,Frontend,Connection Error,Low,Resolved,2026-04-19 23:57:55,2026-04-22 11:57:55
+bb9dc835-0d32-4e08-a8b4-53a2134bf44e,Auth,Data Error,Critical,In Progress,2026-03-30 16:29:53,
+f55ae763-4fe1-45b0-987f-b86a23d34e25,Frontend,Connection Error,High,Resolved,2026-04-20 17:12:55,2026-04-20 18:12:55
+b6b67eda-f9fc-454d-a9a7-a9fd70b2f6d9,Auth,Auth Failure,High,Resolved,2026-04-22 08:07:56,2026-04-25 02:07:56
+29655af6-61ef-4783-8a66-3d1557362b22,Payments,Connection Error,Critical,In Progress,2026-04-12 02:38:29,
+a52e07f1-4a0e-457a-8f27-d4b73e4cc244,Database,Data Error,Medium,In Progress,2026-04-08 23:46:27,
+381ecf23-320c-442c-8436-c61b1921cee1,Frontend,Timeout,Medium,Resolved,2026-03-28 15:50:02,2026-03-31 08:50:02
+c950ef43-b54d-439d-8722-4c7c20ff5d18,Payments,Data Error,Low,Open,2026-03-29 12:02:28,
+5c86a5ab-209b-4f43-ba33-c91a736dc14a,Database,Data Error,High,Resolved,2026-04-16 12:11:14,2026-04-17 21:11:14
+f26e6a62-b38f-442c-b0bf-1825703ae829,Auth,Auth Failure,Low,Resolved,2026-04-07 04:42:17,2026-04-09 05:42:17
+d25b2e13-59f2-4652-836e-32dd5a67318c,Payments,Auth Failure,Medium,Resolved,2026-04-17 16:13:57,2026-04-20 05:13:57
+668fbb9e-b771-4c22-8de1-b6a64733783a,API,Auth Failure,Critical,Resolved,2026-04-09 17:48:49,2026-04-12 11:48:49
+67d56817-5a61-4ffe-84d8-fd817dda4269,Frontend,Timeout,High,In Progress,2026-04-22 19:34:32,
+6879d0d7-732d-4952-aa66-552cf84685b5,API,Data Error,High,Resolved,2026-04-24 05:28:35,2026-04-26 22:28:35
+6e53d28a-55db-417e-97da-33b0723739b2,Database,Connection Error,High,Open,2026-04-03 18:37:40,
+18053713-8b40-4f79-a3f7-7e91a7c5dd0b,Database,Data Error,Low,Resolved,2026-04-25 07:41:17,2026-04-25 10:41:17
+3a3503fc-517d-4ab4-994d-a5e6374dcbd7,Payments,Auth Failure,Medium,Resolved,2026-04-06 03:27:01,2026-04-07 04:27:01
+e5fdc15d-e459-41b4-930e-b9a19e4c1b5a,Payments,Auth Failure,Low,Resolved,2026-04-10 11:15:42,2026-04-10 13:15:42
+e1002c3e-21c7-41b7-9346-e37ddafde338,API,Data Error,Low,Resolved,2026-04-03 01:56:40,2026-04-04 18:56:40
+35b9849d-0bf8-4462-9fc1-1d5ede907488,Auth,Timeout,Critical,In Progress,2026-04-11 10:58:40,
+f0bfff93-b016-4387-acf5-08f497be3a07,Frontend,Data Error,Critical,Open,2026-03-28 19:23:53,
+0ec09026-98ad-403b-81a7-868192008dd9,Payments,Auth Failure,Critical,Resolved,2026-04-11 05:27:42,2026-04-11 22:27:42
+b9fc2857-48ad-4c52-963e-66bcfded333e,Frontend,Timeout,Medium,In Progress,2026-04-19 10:10:17,
+8c5ee7d9-02ff-448d-85f2-ff773478a552,API,Connection Error,High,Open,2026-04-18 11:32:12,
+336567c1-fdc9-42c0-8a56-0e8f7a0dd35c,API,Data Error,Low,Resolved,2026-04-03 11:05:36,2026-04-05 13:05:36
+265b2999-4aa1-4bf3-b617-c9d4bdac36f6,API,Connection Error,High,In Progress,2026-04-04 02:09:14,
+90ef00f0-8255-4c1d-acb5-6f0f21fa32bb,Frontend,Connection Error,Medium,Resolved,2026-04-22 05:29:37,2026-04-22 17:29:37
+24f23fcc-2b5d-404f-9b98-8dc6c2723f6e,API,Auth Failure,Critical,Resolved,2026-04-14 19:33:36,2026-04-15 10:33:36
+2ed51c31-c69e-4eb4-b0d3-8f8baf737e92,Payments,Auth Failure,Medium,In Progress,2026-04-16 15:03:40,
+08b4ae4b-c4c1-4e0b-bacc-0d76787badb6,API,Timeout,Medium,Resolved,2026-04-06 10:57:26,2026-04-08 01:57:26
+eb59ea41-a8b7-4931-8b62-6199739e69a4,Payments,Connection Error,Critical,Resolved,2026-04-09 05:57:31,2026-04-11 01:57:31
+a9b86c58-0a09-48af-84b8-8442c0bb928c,API,Connection Error,High,Open,2026-04-08 12:57:32,
+a2db5db3-600d-471e-8b6b-2beb1c1ab40b,API,Auth Failure,Medium,Open,2026-04-07 14:49:18,
+0c42f91b-67c0-4624-9d31-d2d0feee8bbc,Frontend,Data Error,Medium,Resolved,2026-04-15 23:03:11,2026-04-16 03:03:11
+d309420b-e7b3-4c32-9da8-23da46b7325c,Frontend,Timeout,Medium,In Progress,2026-04-19 07:30:42,
+978fa9eb-861f-46c0-815e-295b7390947f,Auth,Connection Error,Medium,Resolved,2026-04-08 04:34:11,2026-04-09 03:34:11
+3e575ffd-4386-40c4-b9d1-ecf0f91e3465,Frontend,Timeout,High,Resolved,2026-04-01 09:43:41,2026-04-01 12:43:41
+b192f251-573f-491c-b45f-290d6c9a5513,Database,Timeout,Critical,In Progress,2026-04-15 04:41:36,
+f32c346f-bd84-49a2-bea9-b21e4e9ce084,Database,Connection Error,Low,Open,2026-04-13 09:30:22,
+584717a9-8049-45aa-93ed-9eb91304b3f8,Payments,Auth Failure,Critical,Resolved,2026-04-21 05:18:02,2026-04-23 07:18:02
+4ba7805b-a648-4ce9-81df-a0377f26835f,API,Data Error,Low,In Progress,2026-04-20 10:56:50,
+b90b5c4e-3502-4080-9022-9de979c97c9a,Auth,Timeout,High,In Progress,2026-03-30 02:00:50,
+e20365d5-52ba-45a6-a5fa-1665cc7164de,Frontend,Data Error,High,Open,2026-04-12 16:25:09,
+d96d44d1-1490-4be4-b914-d590f8d5eaed,Frontend,Auth Failure,High,Resolved,2026-04-08 04:52:04,2026-04-09 19:52:04
+560cf128-323d-44cb-9e92-1a88509401ea,Auth,Data Error,Critical,In Progress,2026-04-12 11:38:49,
+57319e55-96ea-4f33-aff1-f9f36079e79e,Auth,Auth Failure,Critical,In Progress,2026-03-30 19:56:03,
+13741c89-099b-429c-a870-7bacab53623e,Database,Auth Failure,High,Resolved,2026-04-15 10:40:05,2026-04-15 15:40:05
+82913488-122f-4df1-b2ac-b52add5af9db,Auth,Timeout,Low,In Progress,2026-04-02 17:05:51,
+3e99e5c9-a7e6-4b0c-8cab-27b5172b0589,Payments,Data Error,High,Open,2026-04-10 04:30:02,
+bf74c45d-e10d-46af-a963-525f023ae0b7,Auth,Auth Failure,High,Open,2026-04-07 14:28:32,
+0e65f8f4-1558-4fa7-ac9c-5c2f63b9233b,Auth,Timeout,Medium,Resolved,2026-04-24 22:17:03,2026-04-26 11:17:03
+3a492470-0ca0-438e-81b2-23c9a825cb03,Payments,Auth Failure,Critical,Open,2026-04-21 13:22:57,
+05406d62-e016-44d8-8436-e5f7e44bcda1,Frontend,Data Error,Medium,Resolved,2026-04-15 23:22:32,2026-04-16 00:22:32
+60122fca-d4b3-41e9-9d59-5052eed9c939,Auth,Data Error,Critical,Open,2026-03-29 08:24:05,
+ebc3193a-2e04-4854-990a-8cd345771580,Database,Connection Error,Critical,Resolved,2026-04-21 02:08:43,2026-04-22 14:08:43
+9dc566dc-5bb5-4193-a6fa-b45d0d0534cb,API,Auth Failure,Low,Resolved,2026-03-30 14:38:52,2026-03-30 20:38:52
+ac41b67a-ed2a-4c06-b661-24db945510d3,Auth,Connection Error,High,In Progress,2026-04-26 22:49:09,
+e7585a66-3796-4604-8299-743295008890,Auth,Connection Error,Critical,Resolved,2026-03-29 02:01:44,2026-03-30 01:01:44
+04d97619-d545-4f91-9228-61d23fa07c1e,Database,Data Error,Critical,Open,2026-03-31 18:52:42,
+fe7c2bf7-5b5d-429b-b274-d7baddc1e7d0,Frontend,Timeout,Critical,Resolved,2026-03-31 04:33:14,2026-03-31 16:33:14
+238b0f8c-465b-4293-bee3-08bb9f8eb5da,Database,Timeout,High,In Progress,2026-04-23 21:55:30,
+a3043e48-968d-4ba5-9b78-7cd099403e83,Frontend,Data Error,Medium,In Progress,2026-04-09 00:16:05,
+118a1d21-6418-4145-9cbd-0bcb34b21bc8,Database,Connection Error,Low,In Progress,2026-04-12 02:40:39,
+9b46145e-1c74-42e6-93bf-1253b49de307,Database,Data Error,Critical,Resolved,2026-04-20 05:20:39,2026-04-21 10:20:39
+c0de00c0-2881-44c9-b365-5a4fc876a3da,Frontend,Connection Error,Low,Open,2026-04-04 11:37:55,
+78f1c1a6-e000-41a6-9c94-b8b23600e0b0,API,Auth Failure,Low,Resolved,2026-04-03 10:48:32,2026-04-05 08:48:32
+799f4247-8cac-4272-b2e5-694d61ac8c92,Frontend,Auth Failure,Medium,In Progress,2026-04-13 06:06:34,
+a9bf4a45-5934-4bf3-8269-513045bbdd52,Auth,Data Error,Medium,Resolved,2026-03-31 16:38:56,2026-04-01 15:38:56
+c76aba5d-1956-4fad-a25d-a0f301384558,Database,Connection Error,High,In Progress,2026-04-22 10:54:01,
+255a21d5-cc8b-4273-8b5e-7d168b612299,Frontend,Connection Error,Critical,Open,2026-04-01 10:48:43,
+18997ed1-9a69-4de6-9c10-52a6fb0aaa7b,Auth,Data Error,Medium,Open,2026-04-24 12:25:43,
+ee532be3-6470-4f92-8266-0cf5fafda11c,Auth,Connection Error,High,Resolved,2026-04-06 09:09:43,2026-04-07 04:09:43
+b52dd310-81b1-4cb5-a2ad-6710dfb1bea0,Payments,Timeout,High,In Progress,2026-04-22 15:22:55,
+4afa9668-b1cf-40a6-8a86-585d4b84ff59,Database,Connection Error,High,In Progress,2026-04-01 21:15:59,
+39e2c2cc-2fda-4955-9835-1d79ea286392,Database,Timeout,Low,In Progress,2026-04-19 23:53:51,
+f008c509-7f83-4999-b61a-283c2a7e8652,Payments,Auth Failure,Critical,Resolved,2026-04-10 14:49:11,2026-04-11 15:49:11
+263ee77a-d353-4faa-86ad-84371fc99cd0,Frontend,Connection Error,Critical,In Progress,2026-04-19 04:43:33,
+6dd6ed15-1ef0-4e02-ba81-1e2911b69d4b,Frontend,Auth Failure,Low,Open,2026-04-27 08:33:52,
+62dfa4c5-d5aa-4cdf-8753-00350ffbc10a,API,Connection Error,Low,In Progress,2026-04-08 23:12:00,
+46c95f57-ce49-4e7b-95e9-c0236a7a34c5,Auth,Timeout,Medium,Open,2026-04-16 16:05:59,
+10650622-0f58-4221-a057-cb30abb8f474,Auth,Timeout,Medium,Resolved,2026-04-22 05:31:20,2026-04-22 08:31:20
+3f6e010f-05a0-44a5-93c0-b12ddf49ac66,Frontend,Data Error,Critical,Open,2026-04-03 04:37:37,
+30cf1848-de9d-48a1-99a0-9f82f896a98b,Auth,Connection Error,High,Resolved,2026-04-26 03:30:49,2026-04-27 07:30:49
+7de4ee68-c0d1-4226-8fe6-16877448d536,API,Timeout,Critical,Open,2026-04-13 04:33:15,
+0b67b681-68bb-4f40-a20b-29504d5ff188,Frontend,Timeout,Low,Resolved,2026-04-21 04:23:04,2026-04-22 11:23:04
+852631c8-4d2e-496a-b55f-5313c1cf4d53,API,Data Error,High,Resolved,2026-04-16 03:51:47,2026-04-17 03:51:47
+3c1765d0-a8d7-40a1-8fea-4d5186ef8441,Auth,Connection Error,Medium,Resolved,2026-03-30 21:12:40,2026-04-01 11:12:40
+e00ce146-28da-4187-8c48-7c2b298c37c6,Frontend,Auth Failure,Medium,Resolved,2026-04-18 07:51:07,2026-04-19 19:51:07
+70d14241-ea12-404a-a9ab-67b05bf0392c,Payments,Connection Error,Medium,In Progress,2026-03-30 19:18:05,
+cac43234-bc46-4857-91d3-09dd0861ac57,Frontend,Timeout,Low,Resolved,2026-04-13 20:04:47,2026-04-15 11:04:47
+aa9505e4-41e8-4618-97ee-84551727ab33,Payments,Data Error,Medium,Resolved,2026-04-12 23:44:30,2026-04-14 00:44:30
+97b52f5d-e020-422e-a11b-09cbaefc3913,Database,Auth Failure,Critical,In Progress,2026-04-14 04:50:48,
+4170301f-514b-4649-9f1f-77c1f18bb2bc,Frontend,Auth Failure,Medium,In Progress,2026-04-24 17:54:39,
+9bdb5a23-09f6-4d28-bdca-89933556b1f7,Payments,Timeout,Medium,Resolved,2026-04-13 13:35:35,2026-04-15 17:35:35
+7e1d5b4f-e6fb-4657-91f6-c2078da29c9e,Database,Timeout,Low,Resolved,2026-04-25 22:09:17,2026-04-26 20:09:17
+af19a686-1661-40fa-a63e-2fb4d0871822,Auth,Auth Failure,Medium,Open,2026-04-03 04:16:34,
+54ca584a-82ae-48f7-8552-b6a20ad2f344,API,Connection Error,Low,Resolved,2026-04-19 14:12:39,2026-04-21 21:12:39
+5d29b171-b22d-40b5-8b64-0fe022cd8465,Auth,Data Error,Low,In Progress,2026-04-20 00:40:38,
+8373772d-ce00-4f56-afa4-04101c81bc26,Database,Timeout,Critical,In Progress,2026-04-02 01:04:01,
+90c9b9e5-a01d-4c0c-a295-d3dee1de4601,Auth,Auth Failure,Critical,Resolved,2026-04-21 18:07:20,2026-04-24 17:07:20
+e3f14980-4fe6-4428-b244-8e4d76dc1539,Frontend,Data Error,High,Resolved,2026-04-08 05:22:35,2026-04-09 07:22:35
+ac016de2-118e-4f8a-90c7-ff68adaa8397,API,Connection Error,High,Resolved,2026-04-27 02:02:40,2026-04-27 22:02:40
+997a5684-2983-4845-a169-1031778512be,Auth,Auth Failure,High,Resolved,2026-04-12 18:03:39,2026-04-13 16:03:39
+e0f4d98d-6d98-46c8-abf0-846c03f103df,Frontend,Data Error,Critical,Open,2026-04-02 09:38:34,
+882c24f1-7aac-461a-af6c-e33d63178c79,Auth,Connection Error,Low,Resolved,2026-04-22 06:15:36,2026-04-25 02:15:36
+ad43cc62-21f1-4764-944d-86a8260dbe30,API,Data Error,Low,In Progress,2026-04-09 11:33:31,
+57ad999a-ac31-4194-8811-0943f5fac1a6,Auth,Auth Failure,Low,In Progress,2026-04-03 11:38:05,
+7b330be1-95b6-4f7d-97b1-73712852d53a,Payments,Timeout,High,Open,2026-04-21 04:07:56,
+5bdb6da1-a7c5-4490-bb5a-ac12d92a321d,Auth,Data Error,High,Open,2026-04-20 16:33:53,
+b8626f4f-0206-4637-be0d-01f436c0b05c,Frontend,Connection Error,High,Resolved,2026-03-29 11:57:36,2026-03-30 10:57:36
+d97b4017-1837-4816-a4b2-2984224e0809,Payments,Data Error,Critical,Resolved,2026-04-20 23:15:03,2026-04-23 18:15:03
+a4801590-cc07-4796-b48d-9fd665ef25f1,Auth,Timeout,Critical,Resolved,2026-04-01 10:20:33,2026-04-03 17:20:33
+268f748c-adc1-453b-9aa9-d0d053be44d5,Payments,Data Error,Medium,Open,2026-04-05 23:34:50,
+68086f79-6bb5-46e6-ba32-77256ceda8de,API,Auth Failure,High,Resolved,2026-04-22 14:11:50,2026-04-24 22:11:50
+7b139601-d813-49b0-b17a-a5df347f00e0,API,Data Error,High,Resolved,2026-04-13 03:49:42,2026-04-14 01:49:42
+28d0252d-7a57-4ce8-a9bd-4627e90f85e3,Frontend,Connection Error,Medium,Resolved,2026-04-06 04:12:37,2026-04-08 22:12:37
+7f40a600-545c-4fde-8bff-587c592cf99e,Frontend,Data Error,Low,Resolved,2026-04-01 06:32:48,2026-04-03 07:32:48
+6fbcbbcd-e9c3-4706-bf81-6f35bd781f6b,Database,Connection Error,High,In Progress,2026-04-09 14:39:52,
+ea0ccaaa-016e-4999-8b95-e5399d9c7d08,Auth,Auth Failure,Critical,Resolved,2026-04-07 14:06:06,2026-04-09 22:06:06
+1fe57e2c-7a21-4768-a587-12058fdb27c5,Frontend,Data Error,Low,Open,2026-03-30 09:02:08,
+da82f865-eb65-47e1-9dc2-bd91f1dbb67a,API,Timeout,Critical,Resolved,2026-04-18 23:14:47,2026-04-20 03:14:47
+7750cfa5-46cb-4543-bf08-6bb8bb432f80,Database,Timeout,Medium,In Progress,2026-04-22 09:53:58,
+7425fdbd-a133-4606-9a2f-e61d3b4e170c,API,Auth Failure,Low,Open,2026-04-10 05:40:40,
+f36bb146-0653-43f7-858d-e92e277ba261,Payments,Connection Error,Critical,Open,2026-04-07 13:31:24,
+168502f0-8c25-47ff-9ed5-5be6751b1fd0,Database,Connection Error,Medium,In Progress,2026-04-07 04:22:30,
+49c5704e-d8f0-4d12-a6bd-00a66074bad7,Payments,Auth Failure,Critical,Open,2026-04-23 14:13:35,
+c99154f9-f850-4e2b-ad1a-c9c309eb2026,Frontend,Connection Error,Medium,Resolved,2026-04-10 07:02:47,2026-04-12 15:02:47
+c3064cc5-7374-4237-8b84-180febcbb625,Database,Connection Error,High,Open,2026-04-23 03:49:16,
+085da8f3-61db-4320-9e59-b13415fc248b,Database,Auth Failure,Medium,Resolved,2026-04-10 08:47:18,2026-04-12 00:47:18
+2a1e1091-c0c6-4654-aaf8-5546c3f7f53b,API,Timeout,Medium,Resolved,2026-04-27 03:11:50,2026-04-29 17:11:50
+9fa3323f-0a67-40f4-ae8c-3f7933ca1615,API,Connection Error,Low,In Progress,2026-04-17 17:25:49,
+dc1d7aea-db0a-421a-9ef8-5f0b3574a322,API,Auth Failure,Critical,Open,2026-04-08 17:42:52,
+1957b6b6-645c-4801-ad59-c22d49250b3b,API,Data Error,Critical,Open,2026-03-28 19:26:33,
+b029cb14-3bdf-443d-8ddd-1dda3276b2cd,Database,Connection Error,Low,In Progress,2026-03-28 15:01:34,
+719ee416-9cf1-4de8-b188-25134fab4b56,Payments,Connection Error,Critical,In Progress,2026-04-26 18:45:43,
+dd71c2a4-496c-428a-8910-b7d9bd96fb43,Frontend,Timeout,Medium,Resolved,2026-03-31 00:50:42,2026-03-31 10:50:42
+1db57ba1-6b5c-48a5-b4db-0980fa4174f5,API,Timeout,Critical,Open,2026-04-08 06:38:59,
+dc3ecbb0-0580-4951-b362-b80f19b46b5a,API,Connection Error,Low,Open,2026-04-18 17:23:23,
+7b64740c-c272-4747-998a-5511854e9214,Payments,Connection Error,High,Resolved,2026-03-30 13:28:45,2026-04-01 10:28:45
+f5e5bb56-bf69-475b-a296-e7a627db14e5,Payments,Timeout,High,In Progress,2026-04-18 16:32:19,
+5b380803-d6ce-440a-a46f-4c24b8af4f9a,Frontend,Data Error,Critical,Open,2026-03-29 14:27:57,
+05b3a9df-ca7a-40ea-84f8-225f247a4d8d,Auth,Connection Error,High,Open,2026-03-29 04:55:54,
+d572a327-70cc-4c0c-ad49-4c0ec2c0002c,Payments,Data Error,Critical,Resolved,2026-04-08 10:52:16,2026-04-08 12:52:16
+9e74e448-16a3-4f45-be1e-1aa7a5747c09,Frontend,Timeout,Low,Open,2026-04-14 03:56:55,
+31a74a38-2461-4bab-866b-bb8ec33f977b,API,Timeout,Critical,In Progress,2026-04-08 05:32:53,
+029621a0-b412-4313-8c9c-2d349e92188d,Frontend,Connection Error,Medium,Resolved,2026-03-30 08:25:48,2026-03-31 18:25:48
+b2a6bab8-f4ed-438b-b6bf-697376d35614,Auth,Auth Failure,Critical,Open,2026-04-08 11:31:37,
+ca72cc26-dfb9-4391-a588-99502f69cde7,Auth,Auth Failure,Critical,In Progress,2026-04-07 05:49:14,
+754f3072-2918-4236-b667-abb23bca5459,Frontend,Connection Error,Medium,Resolved,2026-04-15 23:45:40,2026-04-16 00:45:40
+fe576ea5-fbff-46f7-8247-96673ae4014d,Database,Timeout,High,Open,2026-04-01 20:40:37,
+4d0a7813-eb61-4aab-ba44-3430cb35d718,API,Timeout,Critical,In Progress,2026-04-15 00:22:05,
+faf194f3-0963-45af-91e3-42a12a77d2fb,API,Auth Failure,Critical,Open,2026-04-22 20:23:56,
+1d7def10-82f9-4da5-bdce-5b6f6973843a,API,Auth Failure,High,Resolved,2026-04-22 21:16:07,2026-04-25 03:16:07
+8fdb3191-eaf8-4645-b90f-c505888b877c,Payments,Data Error,Critical,Open,2026-04-08 15:12:37,
+66544f4d-7db5-4bc9-b6ed-11496fc13340,Database,Auth Failure,Low,Resolved,2026-04-04 18:29:07,2026-04-06 06:29:07
+5edace16-d8bd-4b7e-8d63-27465c4de543,Payments,Connection Error,Low,Resolved,2026-04-20 06:13:57,2026-04-21 08:13:57
+398d58d8-42c6-4e38-ac27-979c1d5ec1ef,Frontend,Connection Error,Critical,Resolved,2026-04-16 05:15:17,2026-04-18 20:15:17
+2852790c-c776-4e0b-9207-a45c9e4a543b,Frontend,Connection Error,Medium,Open,2026-04-19 07:04:31,
+855d5c6a-906e-4191-9e64-cd1abfc0dc33,Database,Connection Error,High,Resolved,2026-04-20 12:17:39,2026-04-20 15:17:39
+9e2a9a98-6236-4434-adb7-b526abb24e66,Database,Timeout,High,In Progress,2026-04-26 07:17:19,
+46588a4f-538d-456b-8886-409466a42613,API,Auth Failure,High,Resolved,2026-04-16 08:02:19,2026-04-17 10:02:19
+cf8ef303-8533-488e-ab71-24ada50884b5,Database,Connection Error,Low,Resolved,2026-04-19 12:46:55,2026-04-20 00:46:55
+9b0c1032-8f0e-41a8-96b8-2114f6e2ed94,Database,Auth Failure,High,In Progress,2026-04-04 09:22:56,
+7e0d645c-7659-488c-83cb-c55071917986,Payments,Auth Failure,Critical,Resolved,2026-04-18 13:38:06,2026-04-19 05:38:06
+87318ea0-5642-4696-a78a-fd0562e72f47,API,Auth Failure,Medium,Open,2026-04-04 01:26:51,
+4ee4b556-8a61-4ab1-914a-be3e81ac24cc,Auth,Connection Error,Low,Resolved,2026-04-07 12:59:55,2026-04-08 02:59:55
+b5ab9d27-dbbf-4810-b48e-5669b534cb42,Frontend,Connection Error,Critical,Resolved,2026-04-09 01:37:17,2026-04-09 10:37:17
+dd1c7d88-17b0-40d1-a7a1-9d81c02f6b54,Auth,Timeout,Low,Open,2026-03-31 19:43:28,
+13c217ce-8604-46b7-a82d-2e259cf5e278,Frontend,Auth Failure,Critical,Open,2026-04-18 19:21:09,
+93587bbc-7cd1-4c97-938a-5a97a1007d51,Frontend,Timeout,Critical,Resolved,2026-03-28 14:00:42,2026-03-31 01:00:42
+63c00167-6a31-4650-a510-426a50d06dfe,Frontend,Auth Failure,High,Resolved,2026-04-20 08:31:02,2026-04-20 19:31:02
+2b089eda-fa63-4f3e-9fb9-b7b33d00b256,Frontend,Data Error,Critical,Resolved,2026-04-15 15:41:04,2026-04-17 01:41:04
+1a9b8c5e-7b39-4e02-b8b4-6a59808ec41d,Auth,Data Error,High,Open,2026-04-19 06:05:44,
+7d40b150-3929-416b-b674-c022dca058f4,Database,Auth Failure,Low,In Progress,2026-04-03 20:43:15,
+dd8bea25-70b6-497a-9c56-59b7c54b0c25,Database,Connection Error,Low,Resolved,2026-04-15 00:20:25,2026-04-17 06:20:25
+c374e6aa-2b73-4168-915a-0b82460a4686,Frontend,Data Error,High,In Progress,2026-04-25 10:44:01,
+5b0415a5-91b3-4612-a5c7-381043ec9add,Auth,Timeout,Critical,Resolved,2026-04-24 09:08:59,2026-04-27 01:08:59
+169319fd-adde-490a-9584-f52e7bc5d024,API,Connection Error,High,Open,2026-04-01 01:20:06,
+574146b0-20b6-42d7-897f-3dcaf9a9e5bd,API,Timeout,Low,Resolved,2026-04-07 03:25:02,2026-04-08 09:25:02
+56744fc4-e76a-47da-9439-412416453eff,API,Data Error,High,Resolved,2026-04-18 15:38:12,2026-04-21 14:38:12
+db83a643-ba7b-43ed-8d8b-ad5246d4c407,API,Connection Error,Critical,Resolved,2026-04-04 22:32:32,2026-04-06 02:32:32
+7898cc01-14a6-4284-8083-89b928aa9884,Payments,Data Error,Critical,Resolved,2026-04-23 12:59:15,2026-04-25 08:59:15
+a723a17b-7040-4847-bf46-cc539efe3363,Database,Data Error,Medium,Open,2026-04-18 03:39:23,
+58824bb6-4a95-4dff-adf6-42753fa47f9a,API,Timeout,Medium,Open,2026-04-13 00:16:50,
+ee02754e-5890-458f-9a67-96a8b80ca8c2,Payments,Auth Failure,Critical,Open,2026-04-11 07:03:40,
+556ff22d-a973-4b66-b0d4-75be612d4be9,API,Auth Failure,Low,Resolved,2026-04-03 05:40:49,2026-04-04 10:40:49
+0863b9b9-519f-4e26-b2b5-4b482d41743b,Payments,Connection Error,Critical,In Progress,2026-04-12 21:51:46,
+67357b96-3e29-44c7-8412-67ba091e2662,API,Auth Failure,Low,Resolved,2026-04-24 07:02:08,2026-04-25 03:02:08
+bcebec02-682f-412e-833f-88916b1696cc,API,Timeout,Critical,Resolved,2026-04-24 19:35:25,2026-04-25 13:35:25
+14ea67e1-2f4f-4d75-ba4c-4f9df3f0cda9,Frontend,Connection Error,Medium,Resolved,2026-04-06 07:45:35,2026-04-08 16:45:35
+5617c1ec-ee80-4049-99fd-3608b6506487,Database,Data Error,High,Resolved,2026-04-02 15:58:33,2026-04-02 18:58:33
+316a57bd-1d1f-4fe2-bf87-c03de483978c,Auth,Auth Failure,Medium,Resolved,2026-04-07 02:56:54,2026-04-09 07:56:54
+15f545c9-96f0-4bb0-9714-dcb480186d24,Payments,Connection Error,Medium,Resolved,2026-04-16 14:09:21,2026-04-18 03:09:21
+d5716ad5-2d6d-4549-b8d4-8a2e55057f6b,Database,Connection Error,Critical,Resolved,2026-04-23 20:12:46,2026-04-26 02:12:46
+20e071e6-6b70-458d-974e-9ac0040ca038,Frontend,Data Error,Critical,Resolved,2026-04-21 23:57:25,2026-04-22 19:57:25
+cad6f24b-a133-4876-b742-25a0adab2184,Payments,Data Error,Low,Resolved,2026-04-07 13:30:19,2026-04-09 00:30:19
+b5cc40c9-e6eb-46c1-85f1-581b82df4e48,Auth,Connection Error,Low,Open,2026-03-30 14:27:31,
+ba5604bc-cc6d-4da3-9a57-32896faad2af,Database,Auth Failure,Medium,Resolved,2026-03-31 17:08:41,2026-04-01 08:08:41
+742ce8b5-3821-40a2-ada5-ca9d9c26dfcf,Database,Data Error,Critical,Resolved,2026-04-04 15:39:13,2026-04-05 14:39:13
+750cd6df-41da-48f8-9641-f2f1523bd6d5,Auth,Auth Failure,Low,Resolved,2026-03-30 18:45:19,2026-04-02 08:45:19
+4a18f542-83e6-4984-9a68-a73c21687796,Payments,Connection Error,Medium,Resolved,2026-04-25 03:30:40,2026-04-26 14:30:40
+5252a26a-73d1-4424-8d4d-34ae74f69381,Database,Timeout,Critical,Resolved,2026-04-01 15:35:38,2026-04-01 17:35:38
+225f27b1-3f4d-49d9-b1fc-a174ad9eb8ce,Frontend,Data Error,High,Resolved,2026-04-24 20:26:18,2026-04-25 19:26:18
+df9cfadb-e3a5-4893-846c-3808bed608b5,Database,Auth Failure,High,Open,2026-04-23 22:49:44,
+c900da97-d99d-4a46-958b-a26f5898fe88,Database,Auth Failure,High,Resolved,2026-03-28 17:29:26,2026-03-30 09:29:26
+8a1d9b00-8ea2-4a65-9afe-a5746d4d9892,Database,Data Error,Critical,Resolved,2026-04-11 18:12:49,2026-04-12 08:12:49
+09d23aec-34aa-4bf6-8a8e-f850bc822b27,API,Timeout,Medium,Resolved,2026-03-30 20:24:01,2026-04-02 02:24:01
+53d2b52a-d1a5-44a7-9a4e-0adcc155d197,Frontend,Connection Error,Critical,Resolved,2026-03-30 18:30:54,2026-03-31 08:30:54
+69dd9065-b3ca-4355-931d-2c1a7792ee40,Database,Auth Failure,Medium,In Progress,2026-04-12 09:37:37,
+47b2e8fa-95ce-46c4-b5a4-e1b999ef1608,Auth,Data Error,Low,Resolved,2026-04-05 11:55:37,2026-04-06 19:55:37
+2d33c2d3-6365-4230-b695-75b5fe7f401a,API,Auth Failure,Critical,Resolved,2026-04-09 02:10:10,2026-04-10 02:10:10
+ebe4ba13-da09-48e5-b62a-b65e55424e6b,Payments,Timeout,Low,Open,2026-04-26 20:28:42,
+e98a5ef4-6fcb-4ce7-b254-b0745a2b30b7,API,Timeout,High,Resolved,2026-04-16 11:09:26,2026-04-17 13:09:26
+a05e3e98-efb1-4b00-94ce-61b0e47637c2,Frontend,Data Error,Low,In Progress,2026-03-29 22:43:12,
+d1bcd5d4-e155-4306-9083-9727c562be79,Payments,Data Error,Low,Resolved,2026-03-31 14:27:29,2026-03-31 23:27:29
+f35b0969-afe7-4243-b2b1-5715793a5285,Auth,Timeout,High,Resolved,2026-04-24 05:15:06,2026-04-27 04:15:06
+ee145f36-220d-4fef-8bfd-527cea7bdb9b,Auth,Data Error,Critical,Resolved,2026-04-15 21:28:06,2026-04-18 08:28:06
+1135a8e3-f546-459b-b808-a232be863d3d,Frontend,Auth Failure,Critical,Resolved,2026-04-12 21:47:24,2026-04-13 17:47:24
+1bc0031d-d259-429f-9310-0535e5718947,Payments,Data Error,Low,Resolved,2026-04-01 15:28:38,2026-04-03 00:28:38
+ce659b78-c1a5-4c2c-a2bc-7447a5909c0c,Frontend,Timeout,High,Resolved,2026-04-04 22:31:09,2026-04-07 08:31:09
+59992409-c58d-4b53-a9dd-00ad35d1b326,Auth,Connection Error,High,Resolved,2026-04-12 10:32:29,2026-04-13 10:32:29
+e0ac77fa-e380-481d-a04b-db3f5a2c15aa,Frontend,Connection Error,Critical,Resolved,2026-03-28 20:39:40,2026-03-30 12:39:40
+5142c142-cd65-4caa-981f-998b42583a0f,Database,Auth Failure,Medium,In Progress,2026-04-17 19:02:35,
+6d36ca07-2a9d-4de8-88c3-14701a6839ce,Payments,Auth Failure,Critical,Resolved,2026-04-13 09:35:20,2026-04-15 17:35:20
+301418f9-3a52-4c09-8a2c-4bf73172cc08,Database,Connection Error,Low,Resolved,2026-03-31 01:36:47,2026-04-02 16:36:47
+853fa32c-1ef2-472a-b94c-97e04cd90b54,Payments,Data Error,High,Resolved,2026-04-22 02:43:04,2026-04-22 10:43:04
+e0e78d88-85c7-47e0-9b7e-d4d139ce48ac,Auth,Data Error,Low,Resolved,2026-04-02 02:40:00,2026-04-04 21:40:00
+fc57128d-1473-405e-b32f-ba7c6809faa1,API,Timeout,Medium,Resolved,2026-04-05 22:10:46,2026-04-08 19:10:46
+d52ba0f2-4522-46bd-af95-e6c85df795dd,API,Auth Failure,High,Resolved,2026-04-18 16:14:25,2026-04-21 06:14:25
+11c6e336-7e4a-49f0-9a7e-19db23167d3a,Database,Data Error,Medium,Resolved,2026-03-31 14:13:12,2026-04-02 17:13:12
+2da12c81-8567-4775-ae79-78e1c0fa29a1,Database,Connection Error,Critical,Open,2026-04-20 11:17:50,
+2aa148f4-98ad-4c95-872e-5b7bc701ec06,API,Timeout,Critical,Open,2026-04-23 09:40:08,
+808ce79d-eb3c-4e52-9f2c-982ac6b5f323,Frontend,Data Error,Critical,In Progress,2026-03-28 14:40:24,
+5c6b4e41-8a4d-4285-8c47-62442e4142ef,Frontend,Connection Error,Critical,Open,2026-04-23 14:26:45,
+20007ba9-a60f-40f7-a739-1f68445dc979,API,Timeout,Medium,Open,2026-04-12 05:22:19,
+41c78867-b91c-4fee-b372-53ec3ac56c94,Payments,Connection Error,Low,Resolved,2026-04-11 12:05:17,2026-04-14 03:05:17
+2676c934-4686-471c-aeb3-8a2d1246d319,Frontend,Connection Error,High,In Progress,2026-04-23 16:06:24,
+b7cc9b34-1f38-4c08-bf17-6b88f37161c4,API,Connection Error,Critical,In Progress,2026-04-06 06:29:52,
+ea67d40c-60ca-4a55-9674-7596d3e60978,API,Connection Error,Medium,Open,2026-04-15 21:46:12,
+8699ec92-db74-42fe-9944-79cc53dcfc53,Database,Auth Failure,Low,In Progress,2026-04-01 11:56:57,
+d8cf9055-578c-4a0a-83ec-8b0497b40dfd,Auth,Connection Error,Critical,Open,2026-04-24 20:13:09,
+82584cc4-162a-412d-be7d-86dd64ca81af,API,Data Error,Low,Resolved,2026-04-21 12:58:45,2026-04-23 18:58:45
+785dbb1d-805c-425a-aa60-f725201af239,Payments,Timeout,Low,Resolved,2026-04-27 08:57:49,2026-04-27 17:57:49
+3a627614-5528-4a57-8c03-8106c2c06290,Payments,Connection Error,Critical,Resolved,2026-04-05 13:17:07,2026-04-07 08:17:07
+a4b5f3b0-2ab1-446d-90e1-f9891e0fdd06,Payments,Auth Failure,Medium,In Progress,2026-04-26 03:46:18,
+2528cc62-049d-42d8-b0c8-ee14a27faa6a,Auth,Auth Failure,Low,In Progress,2026-04-06 22:34:12,
+8e935018-696f-4282-85cf-2b987b970b21,Auth,Auth Failure,High,In Progress,2026-04-22 13:48:33,
+1a573983-fb98-4ba9-906b-54b710e34047,Auth,Data Error,Low,Resolved,2026-04-04 17:26:42,2026-04-06 09:26:42
+87423fd5-1919-4fb3-948b-ef9858e17106,API,Data Error,Low,Resolved,2026-04-26 20:42:27,2026-04-28 13:42:27
+863e217f-c757-4529-a682-71923e6b7358,API,Timeout,Medium,In Progress,2026-03-31 15:16:02,
+4524786f-a298-4372-b788-216a84b8b78b,Database,Data Error,Critical,Open,2026-04-05 12:31:43,
+8ecc8e1b-6c31-4c1c-a702-37c97d1bf83e,Database,Timeout,Critical,Resolved,2026-04-26 11:11:55,2026-04-28 15:11:55
+2c9686de-54b0-4c13-8cfb-fa0681c9773e,Auth,Connection Error,High,Resolved,2026-04-10 12:33:12,2026-04-12 00:33:12
+bc9356e9-2173-4ebf-a2dc-c153ea8ddf46,Database,Connection Error,Critical,In Progress,2026-04-02 10:15:21,
+d1b30d88-2713-4454-a155-60724c4d6043,API,Connection Error,High,In Progress,2026-04-16 06:03:17,
+922414a3-9f96-48dc-822a-fe9cfaf9d67a,Frontend,Auth Failure,Critical,In Progress,2026-04-01 16:49:02,
+ac260c5e-cf2c-4ca7-9d74-31f405a81405,Auth,Timeout,Medium,Open,2026-04-14 12:37:42,
+32231e65-8e5c-473e-8386-c55206b1c43c,Auth,Timeout,Critical,Resolved,2026-04-17 06:00:14,2026-04-17 12:00:14
+6fb85686-71e8-423f-b7cf-8d8d9742d128,Auth,Auth Failure,Low,Open,2026-04-14 14:34:46,
+0647ac3c-98bc-4874-aa0f-8833827791c3,Auth,Data Error,High,Resolved,2026-04-14 17:57:08,2026-04-16 14:57:08
+78b7eab1-3d27-4ee0-8ae8-bd11bc1a7a81,Database,Auth Failure,Medium,Resolved,2026-03-29 14:02:26,2026-03-30 23:02:26
+90709e0f-fefa-481e-9eb4-ae3b428e39cf,Payments,Data Error,Low,Resolved,2026-04-03 03:44:38,2026-04-05 02:44:38
+7ac7ed25-f362-481b-b500-feb71ae96fcd,Frontend,Timeout,Low,Open,2026-04-11 11:54:28,
+fbb0604f-fd96-49c2-ad27-81f083681a9e,Payments,Timeout,High,In Progress,2026-04-25 19:40:43,
+e33b687c-2da2-4139-814d-3dab28a0fe61,Frontend,Auth Failure,Medium,Resolved,2026-04-17 02:39:54,2026-04-17 16:39:54
+0d18c175-4791-479c-bd97-2d76a4677cc2,API,Auth Failure,Low,In Progress,2026-04-14 13:42:34,
+e478005e-71eb-46a5-b394-f02b47874a5a,API,Timeout,Low,In Progress,2026-04-04 10:27:05,
+3070d17e-b0a2-4cec-9b9b-9a7ec57ede2d,Payments,Timeout,Critical,Open,2026-04-02 18:06:50,
+e17f4400-47e2-439d-bfad-400476465e0f,Payments,Timeout,Medium,Resolved,2026-03-29 08:04:47,2026-03-30 20:04:47
+9998260e-574c-4ffa-a9f4-869e734302eb,API,Data Error,High,Open,2026-04-25 20:00:53,
+1d54b0d4-c2f5-4a60-878c-55e07ac795f7,Payments,Data Error,Low,Open,2026-04-07 18:16:34,
+bf4f5a3b-be05-445b-85b6-6e8246e10a97,API,Timeout,Critical,Open,2026-04-20 08:54:22,
+86c9644c-8f14-4e20-b828-1429eee2795e,Database,Timeout,Critical,In Progress,2026-04-20 13:23:07,
+661e54b6-2275-42f1-8b43-dc44086e5730,Database,Auth Failure,Medium,Resolved,2026-04-06 00:01:36,2026-04-07 04:01:36
+04dc2e08-5a95-4b8a-a53c-847bdc701052,API,Connection Error,Low,Open,2026-04-13 20:59:39,
+e8bd5a66-baad-40e7-94d1-972ec4e21ac2,Database,Auth Failure,Medium,Resolved,2026-04-12 04:03:44,2026-04-12 17:03:44
+764d2590-5bf2-4a33-878d-7d97cbe8da8e,Database,Connection Error,High,In Progress,2026-04-06 05:21:02,
+d7f47136-0f52-47ef-9e38-369b58f86c2c,Database,Timeout,Low,Resolved,2026-03-28 22:18:42,2026-03-31 06:18:42
+049a6476-a577-4073-bc4b-4b9414e753c1,Payments,Data Error,High,Resolved,2026-04-03 04:13:09,2026-04-06 03:13:09
+475153a3-1fc7-4948-8a3e-48db6300591d,Auth,Data Error,High,Resolved,2026-04-09 19:16:16,2026-04-10 18:16:16
+4fa21e2d-f068-4e49-a6fb-2e34f1b70a97,API,Data Error,High,Resolved,2026-04-16 23:55:49,2026-04-18 23:55:49
+8b5f8ae9-36c6-469e-a523-0efc7e1fe3f8,API,Data Error,Critical,Resolved,2026-04-12 11:47:07,2026-04-15 07:47:07
+f3fcd96a-2060-4a26-8fce-1e6059f71603,API,Auth Failure,Medium,Resolved,2026-04-12 23:15:15,2026-04-15 11:15:15
+ad6a1f27-3a90-4baf-92df-01eef905f988,Frontend,Connection Error,High,Resolved,2026-04-24 12:37:49,2026-04-26 01:37:49
+58723ba3-05ff-420d-aaf5-f1bb41a42377,Database,Auth Failure,Low,In Progress,2026-04-24 21:15:55,
+9ea5af71-6064-4b35-a9b9-8b9e851a0a74,Payments,Data Error,High,Open,2026-04-17 03:20:30,
+a5333b81-d7b3-4970-89e9-227e2c294367,Auth,Connection Error,Medium,Resolved,2026-04-02 23:30:49,2026-04-04 22:30:49
+90a76a5a-83b8-4ecc-9f6e-70a36012aa63,Payments,Timeout,High,Open,2026-04-25 16:58:48,
+773a2a76-fd13-42b9-9957-9a47959889e9,Database,Data Error,Medium,Open,2026-04-12 18:40:38,
+ae3d1d2c-9ece-442a-90d1-82f01cddf4a7,Database,Data Error,Medium,Open,2026-04-08 10:52:17,
+774b1be3-fa78-4e9b-b317-1d0abe7b91d6,Frontend,Connection Error,High,Resolved,2026-04-09 03:34:33,2026-04-09 18:34:33
+949a0f75-fa3b-497f-99bf-05e71bf43acd,Database,Auth Failure,Critical,Resolved,2026-04-12 19:09:25,2026-04-14 23:09:25
+b3c541c8-3865-4639-befe-07e76935fb6c,Frontend,Data Error,High,Resolved,2026-04-16 11:12:59,2026-04-16 23:12:59
+5c496bb0-313b-4194-ae38-a1364fe6c6d3,Frontend,Data Error,Medium,Resolved,2026-03-31 08:19:08,2026-04-02 07:19:08
+73d295fa-a069-467a-be92-c57f8597b441,Auth,Data Error,Medium,Resolved,2026-04-19 16:27:12,2026-04-20 18:27:12
+91f603f2-8a9a-4adb-a9c5-04df69710d1c,Database,Connection Error,Critical,Open,2026-04-01 18:43:26,
+230d6797-7f51-4e32-a319-104ae47c70c1,Payments,Auth Failure,High,Resolved,2026-04-12 04:50:12,2026-04-12 07:50:12
+12130224-f5c8-4aa5-bfec-51f88634aae4,Payments,Timeout,High,Resolved,2026-04-07 10:23:18,2026-04-07 12:23:18
+f23a97bd-b459-4239-9456-c2981a374096,Database,Auth Failure,Critical,Resolved,2026-03-31 14:05:52,2026-04-03 13:05:52
+a7400c68-49db-4299-a5f6-a3d915737ef8,Payments,Auth Failure,Critical,Resolved,2026-04-07 01:03:18,2026-04-09 18:03:18
+55e8761f-e7d9-4b25-b676-f6744f3a4418,Database,Auth Failure,Critical,Resolved,2026-04-19 19:14:10,2026-04-21 20:14:10
+d3973ad4-6398-416e-87f9-a3a5f9577e87,Database,Data Error,Critical,In Progress,2026-04-03 19:26:16,
+59da2bd7-bd69-4ecf-80be-9238d69192cc,Frontend,Auth Failure,Medium,Open,2026-04-05 02:36:02,
+083ab451-a6ee-485a-ad79-25c5b24dcd9f,Payments,Data Error,Low,Open,2026-04-25 07:28:06,
+c9b466f1-0a02-47a4-843b-d79bf8c105a7,Payments,Timeout,Medium,Resolved,2026-04-07 04:48:46,2026-04-09 22:48:46
+ef7af0d9-bc81-4250-8865-b5847f896b80,Database,Data Error,Critical,Open,2026-04-19 21:44:42,
+30a34fb2-a8b3-46d4-bec6-2037bb294258,Payments,Connection Error,Medium,Resolved,2026-04-04 19:59:57,2026-04-06 19:59:57
+00c62834-e551-461e-914f-007e2682a753,Payments,Connection Error,Low,In Progress,2026-04-11 00:01:29,
+c08147f5-24de-4016-84cc-66d16d8d89c3,Frontend,Connection Error,High,Open,2026-03-31 00:35:50,
+722ff800-25b0-462c-a841-901aba60ddd3,Payments,Auth Failure,Medium,Resolved,2026-04-20 02:12:01,2026-04-20 16:12:01
+7c90855f-d540-48db-bd5d-019695d2418a,API,Connection Error,Medium,Resolved,2026-04-20 11:41:10,2026-04-21 15:41:10
+888f39a8-2b80-4bc1-8710-9e642ffaeae7,Auth,Auth Failure,High,Resolved,2026-04-17 21:36:58,2026-04-19 03:36:58
+7722c4db-5840-4d03-a4ce-6c15329cc7f3,Auth,Auth Failure,Critical,In Progress,2026-04-21 23:09:00,
+c3baca07-bd12-4b5b-81ba-dde6e2318edd,Auth,Timeout,Critical,Resolved,2026-04-02 03:16:03,2026-04-04 04:16:03
+fbbde5de-c651-4d31-8971-03aea1bfb004,Database,Connection Error,Critical,Open,2026-03-30 20:14:31,
+e28ced8e-eaa1-4b29-8a2b-b0b542e1bb5e,Database,Connection Error,Medium,Resolved,2026-04-13 01:50:48,2026-04-14 19:50:48
+9ec5cf27-3f24-49ed-9c58-de8908ba3fb0,API,Data Error,Critical,Open,2026-04-15 03:57:06,
+1dea4e25-1fb5-4510-94df-3c8e957c59b5,Database,Timeout,Medium,Resolved,2026-04-14 14:14:21,2026-04-17 04:14:21
+c475db8a-93bf-40c4-8d3c-a4eeafe1c9f0,Frontend,Auth Failure,High,Open,2026-04-09 05:55:20,
+11062b35-91fb-4fa8-9212-127ec36b83a9,Auth,Connection Error,Medium,Resolved,2026-04-01 15:10:27,2026-04-02 18:10:27
+aafc4988-0273-469f-9fa1-7701e6baa6ac,API,Data Error,Low,In Progress,2026-04-26 19:48:10,
+94d8223c-100d-4cd1-9a7b-f862b5a7f2db,API,Auth Failure,Low,Resolved,2026-03-29 14:11:06,2026-04-01 10:11:06
+55527c6e-44b3-49da-b6a7-a80c74a327fa,Database,Connection Error,Critical,Open,2026-04-09 03:47:02,
+12ecb16f-af3e-4065-b175-5337f6792b96,Database,Data Error,High,In Progress,2026-04-05 10:10:44,
+097c7d52-8044-42e5-a1ae-077b7df7765c,Frontend,Connection Error,Low,In Progress,2026-04-18 02:03:07,
+05140704-4645-4501-b139-7e0fd612c5c5,Database,Timeout,High,Resolved,2026-04-11 04:28:18,2026-04-11 12:28:18
+4be742d4-afd6-4e35-b96c-2091554b5842,Payments,Auth Failure,Low,Resolved,2026-04-06 05:51:40,2026-04-09 03:51:40
+2124b8d2-d699-4f98-b9ce-6ec8b451f8da,Database,Auth Failure,High,Open,2026-04-11 14:20:54,
+73111399-5a12-4fb4-998a-efafead2d89e,API,Connection Error,Medium,In Progress,2026-03-28 15:47:46,
+099bbe9a-e31b-490a-b663-95c4beea1767,Frontend,Auth Failure,Medium,Resolved,2026-04-11 02:43:19,2026-04-11 04:43:19
+54b04a00-9072-4385-aebf-9b0b9673ef9d,Database,Data Error,Low,In Progress,2026-04-22 07:27:00,
+74b964d9-5528-42e2-a548-a56c81987f8b,Frontend,Timeout,Low,Resolved,2026-04-15 20:11:11,2026-04-16 21:11:11
+d47246f0-a3bc-4cec-b893-52741a9a8867,Database,Auth Failure,Medium,In Progress,2026-03-30 02:23:42,
+f9d93738-78ec-4289-bfa4-c067425155ab,Frontend,Connection Error,Medium,Resolved,2026-04-05 05:41:31,2026-04-07 04:41:31
+185d7ec8-f4f5-4036-ba69-c6b824f28923,Payments,Data Error,Critical,Open,2026-04-20 23:04:02,
+d65d804c-7c42-4104-b297-b24f81896e8e,Frontend,Auth Failure,High,In Progress,2026-03-30 19:47:03,
+b3c48b20-eda1-4c12-b9ed-7936467fc4c8,Database,Timeout,High,In Progress,2026-04-10 02:51:27,
+ee93bffa-7c9c-44f7-83ca-a39ccb4556e0,Payments,Auth Failure,High,Resolved,2026-04-22 22:36:24,2026-04-23 00:36:24
+1f4edd0c-284c-4e48-9203-a534e802251c,Auth,Auth Failure,Medium,Resolved,2026-04-25 23:20:46,2026-04-28 23:20:46
+315c2755-8b32-45f5-8c9d-70d30e822977,Auth,Data Error,High,Resolved,2026-04-05 06:49:34,2026-04-07 21:49:34
+687c3ba1-b80e-45a9-a054-35d2d4a780c5,API,Data Error,Critical,In Progress,2026-04-17 21:46:06,
+650ad1d6-f1ac-4e16-b667-c81c172dbb1c,Auth,Auth Failure,High,Resolved,2026-04-07 16:59:21,2026-04-09 14:59:21
+ef599609-1397-4d6a-a668-a0d04f8780ae,Frontend,Data Error,Critical,Open,2026-04-14 16:33:30,
+02c00f62-3e7a-4569-9eda-26237d4e3ca6,API,Auth Failure,Low,In Progress,2026-04-11 22:32:46,
+dc8e31af-cf78-4f33-b46e-751b62effeec,Frontend,Timeout,High,Resolved,2026-04-25 21:18:57,2026-04-26 21:18:57
+34342527-5801-44da-85b1-9d88c972b132,API,Timeout,Critical,In Progress,2026-04-17 01:53:23,
+05f517ae-d42f-4997-98b7-a35e08784d0c,Frontend,Timeout,Medium,In Progress,2026-04-17 02:13:42,
+b638cde8-6730-4fd7-8e88-4c68eaec2552,Payments,Data Error,Medium,In Progress,2026-04-01 11:14:55,
+e7180da9-56e6-4e02-a076-1babf3438bde,Payments,Connection Error,Low,Resolved,2026-04-03 03:05:21,2026-04-05 21:05:21
+ba7eb86b-4240-404d-b755-d19be6e9c87a,Payments,Auth Failure,Medium,Resolved,2026-03-29 17:09:49,2026-03-31 22:09:49
+78dddaac-69c7-4ef9-8001-01e78257c135,API,Auth Failure,Critical,Resolved,2026-04-23 14:53:09,2026-04-24 14:53:09
+880fe623-f7cc-4339-9d70-92c909f4e30e,API,Connection Error,Medium,Resolved,2026-04-14 11:16:02,2026-04-17 08:16:02
+2d653129-6ccc-455f-8a59-04ff5842d91a,Database,Connection Error,Low,Open,2026-04-17 06:05:31,
+e7206a5c-9a7e-431f-8467-8417b968b8ec,Frontend,Timeout,High,In Progress,2026-04-22 15:38:50,
+b7843fc6-a05a-477e-92bf-d56c71a05ad6,Payments,Data Error,Low,Resolved,2026-04-19 11:44:08,2026-04-21 11:44:08
+11ea63cf-dba2-4e22-80bd-ea8bb4e30153,Auth,Auth Failure,Medium,In Progress,2026-04-18 04:48:39,
+3fa6cc17-787d-4ef3-b1b0-e1cd710138df,Database,Data Error,High,Resolved,2026-04-11 09:13:33,2026-04-11 21:13:33
+fab809e6-2c32-4c1e-9baf-33bebe73a9d8,Auth,Auth Failure,Critical,Open,2026-04-05 16:01:46,
+a25316b4-7526-4cc6-acf2-856bfc194b31,Frontend,Data Error,Low,Resolved,2026-04-27 06:59:25,2026-04-29 03:59:25
+3f5e3f0a-5926-4440-8be0-6856eac445be,Auth,Timeout,Medium,Resolved,2026-04-16 22:28:15,2026-04-19 01:28:15
+86dcca99-a401-4b7f-a447-2623b0bfc3b8,Payments,Timeout,High,Resolved,2026-03-31 17:29:18,2026-04-03 09:29:18
+443bfd99-d601-42da-a968-f3e2b89e5e29,Payments,Auth Failure,High,Open,2026-04-07 13:52:30,
+a37a1c2d-d999-47c0-97d9-22efb7b2beb7,Payments,Auth Failure,Critical,Open,2026-04-07 14:26:01,
+fc1dbd31-7427-43a6-bfb9-c394045fa4ae,Database,Data Error,Low,In Progress,2026-04-16 09:41:19,
+d06c84c0-b845-48ce-b268-479b02216a93,Payments,Timeout,Low,Open,2026-03-31 11:20:09,
+207c60fe-5b59-4321-aa3b-30ee5b2777ab,Payments,Connection Error,Critical,In Progress,2026-04-22 09:57:09,
+fdd324e9-aa7e-426b-a55c-59d6ac82470d,Database,Connection Error,Critical,Open,2026-04-05 04:03:12,
+09524beb-f328-4604-a1db-dfe301527cd9,Auth,Timeout,Low,Open,2026-04-16 11:42:51,
+298f8ba5-41af-4fda-90f0-be898031fd84,API,Connection Error,Medium,Resolved,2026-03-30 18:12:08,2026-04-01 13:12:08
+666315ce-b197-4888-a852-03bece9c634e,Auth,Auth Failure,Critical,In Progress,2026-04-19 02:53:22,
+c057b321-3f8e-47da-ae8e-87394a4e882c,Payments,Timeout,Medium,In Progress,2026-04-26 08:27:26,
+020e0e59-b143-4e11-83de-464145b459d1,Auth,Auth Failure,High,Resolved,2026-04-17 22:31:16,2026-04-18 11:31:16
+57be22c6-a866-4f1f-940f-64716a216732,Database,Auth Failure,Medium,Open,2026-04-09 20:34:54,
+1c621c7d-3d8c-4c90-98db-55eb496ea2bc,API,Auth Failure,Medium,Open,2026-04-05 17:24:21,
+66bf18c0-d7bb-4ca1-a1ba-040d4f66e44e,Database,Auth Failure,Medium,Open,2026-04-15 05:07:29,
+48290eee-7c2a-4241-8696-e08d1d1fc92d,API,Data Error,Critical,Open,2026-03-31 22:26:47,
+9ad4446b-3adb-455b-a275-6d65d8beea96,API,Connection Error,Critical,In Progress,2026-04-17 12:24:26,
+2755c9c4-4268-42dc-b288-a9fd313a8c54,Auth,Timeout,Low,In Progress,2026-04-13 05:03:53,
+b7dcf522-1de8-4d3d-8889-70d49becf9e9,Auth,Connection Error,High,Resolved,2026-04-02 17:25:01,2026-04-03 20:25:01
+d730c529-3090-4f12-9721-6aecd22d09ce,Frontend,Connection Error,High,In Progress,2026-04-14 21:23:45,
+4ff17897-7b61-4dd6-b4d2-50f68f48cb2c,Database,Data Error,High,Open,2026-04-21 09:37:22,
+28283666-bbc0-4262-93e3-ac53988f82f3,Auth,Data Error,Low,Resolved,2026-04-03 04:38:36,2026-04-03 13:38:36
+8daecce1-c1f1-46a7-9a69-50af0c915a90,Frontend,Timeout,High,Resolved,2026-04-17 20:40:54,2026-04-20 10:40:54
+16cdee4e-2dee-4e9d-a4b6-ca845b535d99,Payments,Data Error,Low,Resolved,2026-04-04 15:09:58,2026-04-05 03:09:58
+a09e929f-1d6a-4c29-b7c8-eae4a0fe313f,Auth,Auth Failure,Critical,Open,2026-04-08 09:55:40,
+397a76eb-0248-41eb-92f7-45ad0674dc4f,API,Auth Failure,Medium,Resolved,2026-04-03 03:20:42,2026-04-05 10:20:42
+70b97d1a-a137-4d08-a6df-26ed6a4b75a4,API,Data Error,Medium,Resolved,2026-04-22 20:18:14,2026-04-24 04:18:14
+381a4e7f-6b23-4c28-a6e7-4ea3bcb4a25e,API,Timeout,High,In Progress,2026-04-10 08:56:21,
+9069e726-800f-410f-8c53-6d011200412a,Auth,Connection Error,Medium,Resolved,2026-04-22 03:03:39,2026-04-24 09:03:39
+31f7c462-2ec6-4ff1-b4bc-e049009a8633,Auth,Auth Failure,Low,Resolved,2026-04-23 12:56:02,2026-04-25 20:56:02
+68086220-4730-4dc6-97f3-1d912f83b3bb,API,Auth Failure,High,Resolved,2026-04-13 03:37:55,2026-04-13 20:37:55
+a25e1a02-223e-4546-8c0d-d00919e605d9,Payments,Auth Failure,Critical,Open,2026-04-10 04:49:58,
+12d076b6-4493-417e-94cc-788cd6e9538d,Frontend,Connection Error,Low,Resolved,2026-04-13 01:55:15,2026-04-14 18:55:15
+072ba079-6ca1-4995-bf3f-9bcd337c844f,Auth,Timeout,Critical,In Progress,2026-04-02 08:39:52,
+cc67c2ad-f882-4db7-bad3-1177c69ce957,Database,Connection Error,Medium,Resolved,2026-04-03 17:29:18,2026-04-05 01:29:18
+589b26d1-3757-45d7-8cc1-c5f534ca48fc,Payments,Connection Error,High,Open,2026-04-25 19:20:58,
+b34332b2-5da8-488d-b5c4-92c4f6626002,Frontend,Connection Error,Low,Resolved,2026-04-08 20:38:03,2026-04-10 05:38:03
+ec1fd1f0-4cea-4891-8d04-befce25dba3f,API,Connection Error,Critical,In Progress,2026-04-12 21:09:02,
+a16ce610-9ae5-4a0c-8b9f-359f52bf4871,API,Auth Failure,Medium,Open,2026-04-01 17:30:51,
+218f1550-494d-465f-b728-ae868452e3d8,Database,Data Error,High,Resolved,2026-03-29 05:35:49,2026-03-31 04:35:49
+4e40c9ef-d71b-47f0-9528-cc7c53a9b806,Database,Connection Error,Critical,Open,2026-04-11 11:41:47,
+8999e3f2-49b3-4ffb-ae33-b2ff7a60364a,API,Connection Error,Medium,Resolved,2026-04-17 08:21:53,2026-04-17 10:21:53
+f7b2d898-3ab8-44a9-896c-428f35bb95bc,API,Timeout,Medium,In Progress,2026-04-24 12:45:51,
+e09f536d-855f-480a-8001-7aeeeaac4f82,Database,Connection Error,Medium,Resolved,2026-04-26 01:10:20,2026-04-27 02:10:20
+acedc774-85db-4213-846e-2b6dda2a99f9,API,Data Error,Low,In Progress,2026-03-29 05:33:36,
+570b7213-dd9c-4448-8e3d-04aa2d0bae66,API,Auth Failure,Critical,Open,2026-04-22 10:08:02,
+e09d91d5-e535-4826-99e2-4cb08a969c4c,Frontend,Auth Failure,Medium,Open,2026-04-06 17:12:30,
+6ad4ecb2-6d88-4aae-96d6-0482d60ee154,Auth,Auth Failure,Low,Resolved,2026-03-30 10:23:24,2026-04-01 19:23:24
+033d8588-d0d3-4fdf-9344-b23952088d29,API,Auth Failure,Medium,Resolved,2026-04-23 08:48:21,2026-04-25 06:48:21
+7612202a-96ce-42c5-8d1f-3f50db48ddc2,Auth,Auth Failure,Low,Resolved,2026-04-08 20:44:20,2026-04-09 18:44:20
+076edf68-c0bb-4263-84fd-40cdea886fe7,Auth,Connection Error,High,Open,2026-04-25 21:58:15,
+e8e9d9de-bab5-4d3e-bea1-da3f689edb24,Auth,Connection Error,Low,Open,2026-04-21 08:04:58,
+69663173-16c0-42ad-bfa0-107c4a6697f7,Frontend,Auth Failure,Critical,Open,2026-04-12 04:16:01,
+cf2606d7-b5c1-4d51-9a36-756bd0137d25,Payments,Auth Failure,High,Resolved,2026-04-13 00:27:31,2026-04-14 21:27:31
+30f68038-b395-45dd-8d65-e03744cf369b,Auth,Timeout,High,Open,2026-04-16 19:56:59,
+73de0397-0c30-4975-98c2-21460f23a016,Database,Timeout,High,Resolved,2026-04-10 14:00:26,2026-04-13 04:00:26
+844bede6-9d9c-4bda-b3bd-3853e3268f27,Frontend,Connection Error,Low,Resolved,2026-04-06 01:27:24,2026-04-07 20:27:24
+84f6e37a-b4e2-40e8-a757-3a1864e2d8b0,API,Connection Error,Medium,Open,2026-03-29 20:17:00,
+bd952e63-d596-49a4-a707-0049b566546e,Auth,Auth Failure,High,Resolved,2026-04-18 09:00:41,2026-04-19 19:00:41
+09c282ed-4413-4b54-908d-bc8deccbac41,Auth,Timeout,Critical,Open,2026-04-16 02:10:10,
+841d663f-e306-49d9-aa42-7fa369a5da6d,Payments,Timeout,High,Resolved,2026-03-30 06:54:19,2026-03-31 08:54:19
+8afa2a52-1e86-4153-8dfb-c7a0ce8b5aac,Payments,Data Error,Critical,Open,2026-04-04 13:03:50,
+f5bf29b4-ec12-4faf-bba6-3c63865f34c4,Auth,Data Error,High,Resolved,2026-04-23 14:27:19,2026-04-24 13:27:19
+03b9d6a6-217a-4b6c-8343-1bce4721fb8e,Auth,Timeout,Low,Resolved,2026-03-30 10:12:42,2026-04-01 07:12:42
+69466820-ab40-4e8f-8d83-38da72440926,Auth,Connection Error,Low,Resolved,2026-04-13 00:00:33,2026-04-13 21:00:33
+c9bfc4ef-1c4a-4728-8a9d-5b5d9b24c4da,Auth,Data Error,Low,Resolved,2026-04-21 21:33:44,2026-04-22 17:33:44
+a3d2ba72-d9fc-43db-a234-ffb9d96e5a7c,Auth,Timeout,Critical,Open,2026-04-26 01:03:12,
+a21707c2-e998-45f2-a9f2-5f87d07c471d,Database,Data Error,Low,Resolved,2026-04-27 03:28:05,2026-04-28 16:28:05
+0eab258f-0662-49e9-bd9a-ae053b00e5a4,API,Data Error,Critical,In Progress,2026-04-22 02:54:42,
+79f73f50-13ba-4b0b-b2b5-a9dd82b073fb,Frontend,Data Error,High,Resolved,2026-04-22 11:28:25,2026-04-22 14:28:25
+db9fc42f-1fc4-41ef-8e6d-18231d12dc28,Frontend,Data Error,High,Resolved,2026-04-01 00:19:50,2026-04-03 02:19:50
+9604b593-b826-45d7-ac26-7f7d9c9c2009,API,Auth Failure,Critical,Resolved,2026-04-05 21:20:48,2026-04-06 01:20:48
+094727a3-2485-4101-97ee-a400fdbf8ed3,API,Auth Failure,High,Open,2026-04-15 14:04:49,
+0fbe46a9-5586-4628-a183-b3811015ff7e,Payments,Connection Error,Medium,Resolved,2026-04-03 02:36:31,2026-04-05 03:36:31
+d6b3300e-a747-4e1d-9b06-52ee4df98802,Database,Timeout,Low,Resolved,2026-04-11 04:41:27,2026-04-13 10:41:27
+804adaa4-2dc5-435b-89a4-605f515c9fbf,Auth,Connection Error,Critical,Resolved,2026-04-14 02:19:41,2026-04-15 18:19:41
+26f25f5d-4f59-4f4b-9d25-364129f1be30,Payments,Auth Failure,Medium,Resolved,2026-04-15 07:14:13,2026-04-16 16:14:13
+a0c5dd66-38f1-419a-873d-936afdc42f9d,Auth,Timeout,Critical,Resolved,2026-04-01 12:52:08,2026-04-03 05:52:08
+f5aad517-1920-4aca-9afb-33f53ef77280,Payments,Timeout,High,Resolved,2026-04-22 15:09:49,2026-04-24 10:09:49
+b589babb-398b-4143-9a6e-cce4a8653cc3,Database,Auth Failure,Critical,In Progress,2026-04-15 05:07:22,
+515c0fcd-242c-4d51-8b91-a940349c9aa6,Auth,Data Error,Low,In Progress,2026-04-16 07:39:50,
+63f6905e-b8be-444d-9d80-cc829a858f1a,Payments,Timeout,High,In Progress,2026-04-12 00:15:11,
+5a1a0575-69f8-4289-bd7a-8f3d9e20ae67,Database,Data Error,Critical,Resolved,2026-04-20 07:49:14,2026-04-20 13:49:14
+8d001cae-54ab-4e67-bc3f-ceb5b2cb6654,API,Timeout,Medium,Resolved,2026-04-19 12:25:06,2026-04-22 04:25:06
+d18a0b38-3508-4121-b869-a73982ccd35d,Frontend,Auth Failure,Low,Open,2026-04-17 06:47:47,
+6ac9a0c4-2403-46d8-8b0a-087bcf6d6c15,Database,Data Error,High,In Progress,2026-04-14 01:13:52,
+d779eb9a-b712-4370-a630-b7e18fe89d37,API,Connection Error,Low,In Progress,2026-04-02 05:17:23,
+4306a00d-16e6-4372-b3bc-590ffc641f70,Payments,Connection Error,Critical,In Progress,2026-04-08 13:54:19,
+1cd2e647-c3b3-4878-a8bd-67f4730d4019,Auth,Timeout,Critical,Open,2026-04-10 23:40:33,
+797977e6-eb8f-4712-ac4f-1d8a2ecf46f7,Auth,Connection Error,Medium,Resolved,2026-04-07 01:02:15,2026-04-09 06:02:15
+ccbe43f0-fa9d-4f0e-a14b-a2fdc3fc3db8,Payments,Data Error,Critical,Resolved,2026-03-31 12:06:56,2026-04-02 12:06:56
+df16e7c0-510b-457a-a20d-9d037d88b5e6,Payments,Connection Error,High,Open,2026-04-13 16:59:03,
+07bde76d-a4bc-4b8c-9198-899e638e1f74,Database,Auth Failure,Low,Open,2026-04-10 13:44:31,
+f6f2a0d2-e4a0-4e65-95fa-7b49d55fe48e,Frontend,Connection Error,Critical,Resolved,2026-04-24 06:40:05,2026-04-24 15:40:05
+d9f3aa0d-3c74-4098-9c5f-17ba8106300a,Auth,Connection Error,Critical,In Progress,2026-04-03 02:33:27,
+4c0561bb-c106-4ca3-ba10-867bafb8e876,Auth,Data Error,High,Resolved,2026-04-20 11:16:01,2026-04-23 04:16:01
+e096e8c7-7dab-457f-8842-d918866924d8,Frontend,Timeout,Medium,Open,2026-04-18 18:57:43,
+c30f1f10-bcee-4362-ae3b-43e6f1257212,Database,Data Error,High,Resolved,2026-03-31 13:15:14,2026-04-03 01:15:14
+fd0dc54b-aa73-45f7-82db-5bab0655e0c7,Auth,Connection Error,Critical,Open,2026-04-22 15:35:17,
+064cd574-bb93-4263-904d-3d92fa3d414b,Payments,Connection Error,Medium,In Progress,2026-04-03 14:55:05,
+7eb68991-ce55-40a2-b54a-ab4630040bf2,API,Data Error,Critical,Open,2026-04-24 13:59:04,
+013c664f-a9ea-416d-8b93-89107ab9b1fa,Payments,Data Error,Medium,Open,2026-04-10 03:53:16,
+db587e2c-9cc2-42c7-93f1-04b2db5060fe,Auth,Connection Error,Low,In Progress,2026-04-06 15:38:01,
+f4669865-7b6f-4ef0-90e9-f9d9ddd2be5d,Auth,Connection Error,High,In Progress,2026-04-15 06:56:35,
+16c987f2-a4a4-4d18-a865-c2be9c0973e8,Frontend,Auth Failure,Critical,In Progress,2026-04-20 00:27:41,
+8383974f-a4c9-4a9c-a771-7e71410b38cc,Frontend,Connection Error,High,Resolved,2026-04-26 13:21:22,2026-04-29 07:21:22
+07f491fb-7d93-4a8d-bc19-a29c03956b9b,API,Auth Failure,High,Resolved,2026-04-19 15:40:16,2026-04-21 18:40:16
+adc77f0f-8aa9-4286-93bb-5c1fbc53e998,Database,Data Error,Medium,Resolved,2026-03-28 17:22:50,2026-03-30 09:22:50
+ee76201b-f2a8-41c3-9263-6b822451793a,Payments,Auth Failure,Medium,Open,2026-04-11 13:43:54,
+be195dad-228b-43a3-95b9-f29ae3396fd8,API,Data Error,High,Resolved,2026-04-17 06:17:01,2026-04-17 08:17:01
+10974cda-98b6-4c8b-9dfd-9d4b38302ba7,Payments,Connection Error,Medium,Open,2026-04-23 10:42:43,
+43fa6188-200b-4518-a754-a915fb57ce76,Payments,Auth Failure,Critical,Resolved,2026-04-14 09:18:13,2026-04-15 14:18:13
+6b643f24-9b11-4e31-b2cf-e0c493a9d81f,Database,Timeout,Medium,In Progress,2026-04-15 17:01:26,
+d4d52d3a-3c51-416d-9cf9-e88b9a1e3c75,Frontend,Connection Error,Low,Open,2026-04-07 03:17:26,
