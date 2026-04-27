@@ -240,4 +240,4 @@ def update_dashboard(mode, start_date, end_date):
 # RUN APP
 # ===============================
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=10000)

@@ -1,4 +1,5 @@
 pandas
-faker
 dash
 plotly
+faker
+gunicorn
