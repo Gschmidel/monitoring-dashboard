@@ -9,7 +9,7 @@ import plotly.express as px
 # INIT APP
 # ===============================
 app = Dash(__name__)
-
+server = app.server
 # ===============================
 # LOAD DATA
 # ===============================
